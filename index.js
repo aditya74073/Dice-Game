@@ -22,5 +22,5 @@ else if(randomNumber1<randomNumber2){
     document.querySelector("h1").innerText="  Player 2 Wins 🚩";
 }
 else{
-    document.querySelector("h1").innerText="It's A Tie, Try Once More";
+    document.querySelector("h1").innerText="Its A Tie, Try Once More";
 }
